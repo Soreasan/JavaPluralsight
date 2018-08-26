@@ -1,3 +1,9 @@
+/****************************************
+ *	Kenneth Adair			*
+ *	Taken from Pluralsight		*
+ *	course, Java Fundamentals	*
+ ****************************************/
+
 import java.util.*;
 
 public class ImmutableParameters{
